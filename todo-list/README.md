@@ -1,0 +1,1 @@
+Average todo list app using React and SoftUni practice server.
